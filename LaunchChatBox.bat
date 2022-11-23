@@ -1,0 +1,1 @@
+python "C:\Users\Black~~Knight\Desktop\Systems\Chat Bot\main.py" runserver
